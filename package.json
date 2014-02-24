@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "mofumofu3n",
+    "email": "mofumofu3n@gmail.com"
+    },
+  "name": "Demo Lastfm",
+  "version": "0.0.0",
+  "scripts" : {
+    "start" : "node app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "request" : "*" 
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
